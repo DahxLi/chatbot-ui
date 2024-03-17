@@ -14,7 +14,7 @@ export default function HomePage() {
         <ChatbotUISVG theme={theme === "dark" ? "dark" : "light"} scale={0.3} />
       </div>
 
-      <div className="mt-2 text-4xl font-bold">Digtial Pluse 开发 GPT-4.0 聊天机器人｜Aura airtech 测试版本最新</div>
+      <div className="mt-2 text-4xl font-bold">Digtial Pluse 开发 GPT-4.0 聊天机器人 Aura airtech 测试版本最新</div>
 
       <Link
         className="mt-4 flex w-[200px] items-center justify-center rounded-md bg-blue-500 p-2 font-semibold"
